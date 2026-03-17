@@ -97,5 +97,5 @@ void main() {
         ), // Column
       ), // Padding
     ), // Scaffold
-  )); // MaterialApp
+  )); // MaterialAp
 }
